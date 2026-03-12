@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Calculator",
+  "description": "A clean, distraction-free calculator for standard arithmetic.",
+  "requestFramePermissions": []
+}
